@@ -1,2 +1,6 @@
 
 #original code created locally
+
+#updates made after
+git add . #with newFile with just one line and README.md
+git commit #
